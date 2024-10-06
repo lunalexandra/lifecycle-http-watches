@@ -1,0 +1,21 @@
+.form-container {
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+}
+
+.input-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+    height: 30px;
+    padding: 4px;
+}
+
+.button {
+    width: 10em;
+    height: 30px;
+}
